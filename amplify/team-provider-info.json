@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-discoverygithubactio-dev-120117-authRole",
+      "UnauthRoleArn": "arn:aws:iam::030297879487:role/amplify-discoverygithubactio-dev-120117-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::030297879487:role/amplify-discoverygithubactio-dev-120117-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-discoverygithubactio-dev-120117-deployment",
+      "UnauthRoleName": "amplify-discoverygithubactio-dev-120117-unauthRole",
+      "StackName": "amplify-discoverygithubactio-dev-120117",
+      "StackId": "arn:aws:cloudformation:us-east-1:030297879487:stack/amplify-discoverygithubactio-dev-120117/c52f18c0-126f-11eb-9566-0af655d326e7",
+      "AmplifyAppId": "d1ai29gvqjm8a9"
+    },
+    "categories": {
+      "auth": {
+        "discoverygithubactio70dc356e": {}
+      }
+    }
+  }
+}

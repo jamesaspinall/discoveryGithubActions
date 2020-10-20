@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "discoverygithubactio70dc356e": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
